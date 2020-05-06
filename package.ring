@@ -15,7 +15,7 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "ringallegro",
+			:name = "gameengine",
 			:version = "1.0",
 			:providerusername = ""
 		]
